@@ -1,1 +1,1 @@
-Forecasting NHS Waiting times with python
+Econometrics applied to NHS Waiting times dataset
